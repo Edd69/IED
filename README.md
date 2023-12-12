@@ -41,8 +41,9 @@ algorithm implement two-step of encryption: 1-Confusion. 2- Diffusion:
 
 # Download:
 
-Google play store Soon.. 
-AppStore Soon..
+1 - Google play store Soon..
+
+2 - AppStore Soon..
 
 
 
